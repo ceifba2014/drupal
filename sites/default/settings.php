@@ -219,7 +219,7 @@ $databases = array (
     array (
       'database' => 'uber',
       'username' => 'root',
-      'password' => '',
+      'password' => '123',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
